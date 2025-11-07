@@ -1,6 +1,6 @@
 {
-    "compilerOptions": {},
-    "include": [
-        "src/**/*.ts"
-    ]
+  "compilerOptions": {},
+  "include": [
+    "src"
+  ]
 }
